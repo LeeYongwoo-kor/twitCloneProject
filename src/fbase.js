@@ -1,4 +1,5 @@
 import firebase from "firebase/app";
+import "firebase/database";
 require("firebase/auth");
 
 const firebaseConfig = {
